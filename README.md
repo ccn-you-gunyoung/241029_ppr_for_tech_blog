@@ -203,7 +203,7 @@ export default function Page() {
 
 もしプロジェクト全体に適応させたい場合は、`next.config.mjs`の ppr オプションを true にします。
 
-![](./assets/PPR_SLOW.gif)
+![](./assets/PPR_Slow.gif)
 
 より分かりやすくするため、ネットワーク速度を落としました。
 
