@@ -1,5 +1,9 @@
 # Next.js の PPR（Partial Prerendering）とは？動的コンテンツを高速に提供する新たなレンダリング手法
 
+皆様こんにちは、ウェブエンジニアのYと申します。
+
+本記事では、PPR（Partial Prerendering）について説明します。
+
 ## はじめに：PPR（Partial Prerendering）とは？
 
 Next.js 14 では Partial Prerendering（以降 PPR）という新しいレンダリング手法が実験的にサポートされています。
